@@ -1,16 +1,24 @@
-## Hi there 👋
+# Salut, je suis Badis Aouadi 👋
 
-<!--
-**Badisaouadi/Badisaouadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en 3ème année Génie Informatique @ ESPRIT, Tunis  
+🔍 Recherche un stage en IT / développement / gestion de systèmes (à partir de juin)  
+📍 Tunis, Tunisie
 
-Here are some ideas to get you started:
+## 🛠️ Compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Langages** : C · C++ · Java · PHP  
+**Web** : HTML · CSS · JavaScript · Symfony · MVC  
+**Bases de données** : MySQL · Oracle · SQL  
+**Outils** : Git · Qt Creator · Visual Studio · Linux
+
+## 📂 Projets
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [Gestion d'examens](#) | Application desktop de distribution d'examens | C++ · Qt · Oracle |
+| [Marketplace web](#) | Plateforme e-commerce avec gestion de produits | PHP · JavaScript · HTML · CSS · MySQL |
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Badis_Aouadi-blue?logo=linkedin)](https://www.linkedin.com/in/badis-aouadi-58288a322/)
+[![Email](https://img.shields.io/badge/Email-aouadibadis72%40gmail.com-red?logo=gmail)](mailto:aouadibadis72@gmail.com)
