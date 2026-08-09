@@ -17,6 +17,7 @@
 |--------|-------------|-------|
 | [Gestion d'examens](#) | Application desktop de distribution d'examens | C++ · Qt · Oracle |
 | [Marketplace web](#) | Plateforme e-commerce avec gestion de produits | PHP · JavaScript · HTML · CSS · MySQL |
+![CI](https://github.com/Badisaouadi/ProjectFlow/actions/workflows/ci.yml/badge.svg)
 
 ## 📫 Contact
 
